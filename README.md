@@ -21,7 +21,7 @@ JIS X 0410規格に基づく日本のメッシュコードを扱うSwiftライ�
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/JISMesh.git", from: "1.0.0")
+    .package(url: "https://github.com/ObaShion/JISMesh.git", from: "1.0.0")
 ]
 ```
 
